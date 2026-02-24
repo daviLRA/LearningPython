@@ -1,0 +1,7 @@
+{ 
+    "terminal.integrated.fontSize": 14,
+    "code-runner.executorMap": {
+        "python": "clear ; python -u"
+    }
+
+}
